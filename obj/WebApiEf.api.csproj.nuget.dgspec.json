@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\users\\murilo.paz.redespc\\source\\repos\\WebApiEf\\WebApiEf.api\\WebApiEf.api.csproj": {}
+    "C:\\Users\\murilo.paz.REDESPC\\source\\repos\\WebApiEf\\WebApiEf.api\\WebApiEf.api.csproj": {}
   },
   "projects": {
-    "C:\\users\\murilo.paz.redespc\\source\\repos\\WebApiEf\\WebApiEf.api\\WebApiEf.api.csproj": {
+    "C:\\Users\\murilo.paz.REDESPC\\source\\repos\\WebApiEf\\WebApiEf.api\\WebApiEf.api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\users\\murilo.paz.redespc\\source\\repos\\WebApiEf\\WebApiEf.api\\WebApiEf.api.csproj",
+        "projectUniqueName": "C:\\Users\\murilo.paz.REDESPC\\source\\repos\\WebApiEf\\WebApiEf.api\\WebApiEf.api.csproj",
         "projectName": "WebApiEf.api",
-        "projectPath": "C:\\users\\murilo.paz.redespc\\source\\repos\\WebApiEf\\WebApiEf.api\\WebApiEf.api.csproj",
+        "projectPath": "C:\\Users\\murilo.paz.REDESPC\\source\\repos\\WebApiEf\\WebApiEf.api\\WebApiEf.api.csproj",
         "packagesPath": "C:\\Users\\murilo.paz.REDESPC\\.nuget\\packages\\",
-        "outputPath": "C:\\users\\murilo.paz.redespc\\source\\repos\\WebApiEf\\WebApiEf.api\\obj\\",
+        "outputPath": "C:\\Users\\murilo.paz.REDESPC\\source\\repos\\WebApiEf\\WebApiEf.api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
